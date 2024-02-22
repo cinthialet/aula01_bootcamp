@@ -15,6 +15,6 @@ valor_bonus = float(input("Valor do bônus recebido: "))
 valor_bonus_final = constante_bonus + valor_salario * valor_bonus
 
 # 5) Imprima mensagem personalizada incluindo o nome do usuario e valor do bonus final
-print(f"O usuario {nome_usuario} possui o bonus de {valor_bonus_final}") #teste
+print(f"O usuario {nome_usuario} possui o bonus de {valor_bonus_final}") #testee
 
 
